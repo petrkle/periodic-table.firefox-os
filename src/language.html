@@ -1,0 +1,10 @@
+[% INCLUDE header.html %]
+[% INCLUDE title.html %]
+	<ul id="elements">
+[% FOREACH loc IN languages %]
+		<li><a class="line closed" href="#" id="btn[% loc.android %]">[% l(loc.fullname) %]</a></li>
+[% END %]
+		<li><a class="line closed" href="#" id="btndefault">[% l('Default language') %]</a></li>
+	</ul>
+<script type="text/javascript" src="../language.js"></script>
+[% INCLUDE footer.html -%]

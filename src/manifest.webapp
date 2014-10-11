@@ -1,0 +1,33 @@
+{
+  "version": "[% version %]",
+  "name": "Periodic table",
+  "description": "[% languages.0.description %]",
+  "launch_path": "/index.html",
+  "icons": {
+    "16": "/icon-16.png",
+    "32": "/icon-32.png",
+    "64": "/icon-64.png",
+    "90": "/icon-90.png",
+    "48": "/icon-48.png",
+    "60": "/icon-60.png",
+    "128": "/icon-128.png",
+    "512": "/icon-512.png"
+  },
+  "developer": {
+    "name": "Petr Kletečka",
+    "url": "http://petr.kle.cz"
+  },
+  "locales": {
+[% FOREACH loc IN languages -%]
+    "[% loc.android -%]": {
+      "name": "[% loc.title -%]",
+      "description": "[% loc.description -%]",
+      "developer": {
+    		"name": "Petr Kletečka",
+        "url": "http://petr.kle.cz"
+      }
+    }[%- "," IF ! loop.last %]
+[% END -%]
+  },
+  "default_locale": "en"
+}

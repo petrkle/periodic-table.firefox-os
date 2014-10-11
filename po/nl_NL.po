@@ -1,0 +1,273 @@
+# Periodic Table
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Ben van Hartingsveldt <benvanhartingsveldt@gmail.com>, 2014
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-04 13:39+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Ben van Hartingsveldt <benvanhartingsveldt@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Periodic Table"
+msgstr "Periodieke Tabel"
+
+msgid "Settings"
+msgstr "Instellingen"
+
+msgid "Language"
+msgstr "Taal"
+
+msgid "About"
+msgstr "Over"
+
+msgid "English"
+msgstr "Engels"
+
+msgid "Czech"
+msgstr "Tsjechisch"
+
+msgid "Slovak"
+msgstr "Slowaaks"
+
+msgid "Default language"
+msgstr "Standaard taal"
+
+msgid "State"
+msgstr "Staat"
+
+msgid "Solid"
+msgstr "Vast"
+
+msgid "Liquid"
+msgstr "Vloeibaar"
+
+msgid "Gas"
+msgstr "Gas"
+
+msgid "Symbol"
+msgstr "Symbool"
+
+msgid "Atomic number"
+msgstr "Atoomnummer"
+
+msgid "Period"
+msgstr "Periode"
+
+msgid "period"
+msgstr "periode"
+
+msgid "Element category"
+msgstr "Element<wbr>categorie"
+
+msgid "Relative atomic mass"
+msgstr "Relative Atoommassa"
+
+msgid "Atomic mass"
+msgstr "Atoommassa"
+
+msgid "Group"
+msgstr "Groep"
+
+msgid "group"
+msgstr "groep"
+
+msgid "Electronegativity"
+msgstr "Elektro<wbr>negativiteit"
+
+msgid "Oxidation numbers"
+msgstr "Oxidatie nummers"
+
+msgid "Electron configuration"
+msgstr "Elektronen<wbr>configuratie"
+
+msgid "Density"
+msgstr "Dichtheid"
+
+msgid "Melting point"
+msgstr "Smeltpunt"
+
+msgid "Boiling point"
+msgstr "Kookpunt"
+
+msgid "Critical point"
+msgstr "Kritiek punt"
+
+msgid "Critical pressure"
+msgstr "Kritieke druk"
+
+msgid "Atomic radius"
+msgstr "Atoomstraal"
+
+msgid "Covalent radius"
+msgstr "Covalente straal"
+
+msgid "Thermal conductivity"
+msgstr "Thermische geleidbaarh<wbr>eid"
+
+msgid "Discovery"
+msgstr "Ontdekking"
+
+msgid "Hardness"
+msgstr "Hardheid"
+
+msgid "Vickers hardness"
+msgstr "Vickers hardheid"
+
+msgid "Brinell hardness"
+msgstr "Brinellhardheid"
+
+msgid "Mohs scale"
+msgstr "Mohs schaal"
+
+msgid "Shear modulus"
+msgstr "Schuif<wbr>modulus"
+
+msgid "Young's modulus"
+msgstr "Young's modulus"
+
+msgid "Electrical resistivity"
+msgstr "Elektrische weerstand"
+
+msgid "Electrical conductivity"
+msgstr "Geleidings<wbr>vermogen"
+
+msgid "Name"
+msgstr "Naam"
+
+msgid "Latin name"
+msgstr "Latijnse naam"
+
+msgid "Version"
+msgstr "Versie"
+
+msgid "Created"
+msgstr "Gemaakt"
+
+msgid "Author"
+msgstr "Auteur"
+
+msgid "Write review"
+msgstr "Schrijf review"
+
+msgid "Noble gases"
+msgstr "Edelgassen"
+
+msgid "Inner transition elements"
+msgstr "Innerlijke overgangsel<wbr>ementen"
+
+msgid "Transition elements"
+msgstr "Overgangs<wbr>elementen"
+
+msgid "Metalloids"
+msgstr "Metalloïden"
+
+msgid "Nonmetals"
+msgstr "Niet-metalen"
+
+msgid "Alkaline earth metals"
+msgstr "Aardalkali<wbr>metalen"
+
+msgid "Metals"
+msgstr "Metalen"
+
+msgid "Halogens"
+msgstr "Halogenen"
+
+msgid "Alkali metals"
+msgstr "Alkalimetalen"
+
+msgid "1.st ionization energy"
+msgstr "1e Ionizatie energie"
+
+msgid "2.nd ionization energy"
+msgstr "2e Ionizatie energie"
+
+msgid "3.rd ionization energy"
+msgstr "3e Ionizatie energie"
+
+msgid "Stable isotopes"
+msgstr "Stabiele isotopen"
+
+msgid "Unstable isotopes"
+msgstr "Onstabiele isotopen"
+
+msgid "Substance"
+msgstr "Stof"
+
+msgid "Talc"
+msgstr "Talk"
+
+msgid "Rock salt"
+msgstr "Steenzout"
+
+msgid "Limestone"
+msgstr "Kalksteen"
+
+msgid "Fluorspar"
+msgstr "Vloeispaat"
+
+msgid "Apatite"
+msgstr "Apatiet"
+
+msgid "Feldspar"
+msgstr "Veldspaat"
+
+msgid "Quartz"
+msgstr "Kwarts"
+
+msgid "Topaz"
+msgstr "Topaas"
+
+msgid "Corundum"
+msgstr "Korund"
+
+msgid "Diamond"
+msgstr "Diamand"
+
+msgid "Antiquity"
+msgstr "Oudheid"
+
+msgid "Heat capacity"
+msgstr "Warmte<wbr>capaciteit"
+
+msgid "Table view"
+msgstr "Tabel<wbr>weergave"
+
+msgid "French"
+msgstr "Frans"
+
+msgid "Russian"
+msgstr "Russisch"
+
+msgid "German"
+msgstr "Duits"
+
+msgid "Spanish"
+msgstr "Spaans"
+
+msgid "Polish"
+msgstr "Pools"
+
+msgid "Dutch"
+msgstr "Nederlands"
+
+msgid "Download"
+msgstr "Downloaden"
+
+msgid "Links"
+msgstr "Links"
+
+msgid "Source code"
+msgstr "Broncode"
+
+msgid "Unknown"
+msgstr "Onbekend"

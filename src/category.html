@@ -1,0 +1,24 @@
+[% IF cur_l -%]
+[% title = "${cur_l}" -%]
+[% titlelink="category.html" -%]
+[% END -%]
+[% INCLUDE header.html %]
+[% INCLUDE title.html %]
+
+<ul id="elements">
+[% IF cur %]
+[% FOREACH category IN categories %]
+	[% IF cur == category.filename %]
+	[% FOREACH element IN elements %]
+	<li><a name="[% element.name_Latin FILTER lower %]"></a><a href="[% element.name_Latin FILTER lower %].html" class="element"><span class="elementname">[% element.${elementname} %]</span><span class="symbol">[% element.symbol %]<span class="anumber">[% element.anumber %]</span></span></a></li>
+	[% END %]
+	[% END %]
+[% END %]
+[% ELSE %]
+[% FOREACH category IN categories %]
+	<li><a href="[% category.filename %].html" class="line closed">[% l(category.fullname) %]</a> </li>
+[% END %]
+[% END %]
+</ul>
+
+[% INCLUDE footer.html -%]

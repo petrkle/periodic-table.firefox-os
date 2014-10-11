@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lagnuages>
+
+	<lang>
+		<fullname>English</fullname>
+		<fullnameloc>English</fullnameloc>
+		<locales>en_US</locales>
+		<android>en</android>
+		<browser>en-US</browser>
+		<title>Periodic Table</title>
+		<description>A description of each element contains a Latin name, symbol, atomic number, atomic weight, oxidation, Pauling electronegativity, number of stable isotopes, the number of unstable isotopes, melting point, boiling point and density. Translated to: English, French, German, Spanish, Dutch, Polish, Czech and Slovak.</description>
+	</lang>
+
+	<lang>
+		<fullname>German</fullname>
+		<fullnameloc>Deutsch</fullnameloc>
+		<locales>de_DE</locales>
+		<android>de</android>
+		<browser>de-DE</browser>
+		<title>Periodensystem</title>
+		<description>Bei den einzelnen Elementen ist der lateinische und tschechische Name angegeben, Symbol, Kernladung, relative Atomzahl, Oxidationszahl, Paulings Elektronegativität, die Anzahl stabiler Isotope, die Anzahl instabiler Isotope, Schmelzpunkt, Siedepunkt und Dichte. Chemische Elemente bringen Sie nicht mehr in Verlegenheit. Ins Deutsch, Tschechisch, Slowakisch, Englisch, Spanisch, Französisch und Polnisch.</description>
+	</lang>
+
+	<lang>
+		<fullname>French</fullname>
+		<fullnameloc>Français</fullnameloc>
+		<locales>fr_FR</locales>
+		<android>fr</android>
+		<browser>fr-FR</browser>
+		<title>Tableau périodique</title>
+		<description>Une description de chaque élément contient un nom latin, symbole, numéro atomique, masse atomique, l'oxydation, Pauling électronégativité, le nombre d'isotopes stables, le nombre d'isotopes instables, point de fusion, point d'ébullition et la densité. Localisé à: français, anglais, allemand, tchèque, polonais, espagnol et slovaque.</description>
+	</lang>
+
+	<lang>
+		<fullname>Czech</fullname>
+		<fullnameloc>Čeština</fullnameloc>
+		<locales>cs_CZ</locales>
+		<android>cs</android>
+		<browser>cs-CZ</browser>
+		<title>Chemická tabulka</title>
+		<description>U prvků je uveden český a latinský název, značka, protonové číslo, relativní atomová hmotnost, oxidační čísla, Paulingova elektronegativita, počet stabilních izotopů, počet nestabilních izotopů, teplota tání, teplota varu a hustota. Chemické prvky už Vás nezaskočí.</description>
+	</lang>
+
+	<lang>
+		<fullname>Slovak</fullname>
+		<fullnameloc>Slovenčina</fullnameloc>
+		<locales>sk_SK</locales>
+		<android>sk</android>
+		<browser>sk-SK</browser>
+		<title>Periodická tabuľka</title>
+		<description>U prvkov je uvedený slovenský a latinský názov, značka, protónové číslo, relatívna atómová hmotnosť, oxidačné čísla, Paulingova elektronegativita, počet stabilných izotopov, počet nestabilných izotopov, teplota topenia, teplota varu a hustota. Chemické prvky už Vás nezaskočí. Preložené do slovenčiny, češtiny, poľštiny, španielčiny angličtiny, francúzštiny a nemčiny.</description>
+	</lang>
+
+	<lang>
+		<fullname>Polish</fullname>
+		<fullnameloc>Polski</fullnameloc>
+		<locales>pl_PL</locales>
+		<android>pl</android>
+		<browser>pl-PL</browser>
+		<title>Układ okresowy</title>
+		<description>Przy każdym pierwiastku jset podana polska i łacińską nazwa, symbol, liczbę atomową, masę atomową, stopień utlenienia, elektroujemność według Paulinga, liczbę stabilnych izotopów, liczbę niestabilnych izotopów, temperatura topnienia, temperatura wrzenia i gęstość. Pierwiastki chemiczne już was nie zaskoczą. Przetłumaczone na: polski ,czeski, angielski, niemiecki, francuski, hiszpański i słowacki.</description>
+	</lang>
+
+	<lang>
+		<fullname>Spanish</fullname>
+		<fullnameloc>Español</fullnameloc>
+		<locales>es_ES</locales>
+		<android>es</android>
+		<browser>es-ES</browser>
+		<title>Sistema periódico</title>
+		<description>Los elementos incluyen su nombre en latín y su símbolo, número atómico, peso atómico, números de oxidación, electronegatividad según la escala de Pauling, número de isótopos estables, número de isótopos inestables, punto de fusión, punto de ebullición y también su densidad. Los elementos químicos ya no le van a soprender. Traducido al español, inglés, francés, alemán, checo, eslovaco y polaco.</description>
+	</lang>
+
+	<lang>
+		<fullname>Dutch</fullname>
+		<fullnameloc>Nederlands</fullnameloc>
+		<locales>nl_NL</locales>
+		<android>nl</android>
+		<browser>nl-NL</browser>
+		<title>Sistema periódico</title>
+		<description>Een beschrijving van elk element bevat een Latijnse naam, symbool, atomaire aantal, atoom gewicht, oxidatie, Pauling elektronegativiteit, aantal stabiele isotopen, het aantal instabiele isotopen, smeltpunt, kookpunt en dichtheid. Vertaald naar: Nederlans, Engels, Frans, Duits, Spaans, Pools, Tsjechisch en Slowaaks. Nederlandse vertaling: Ben van Hartingsveldt</description>
+	</lang>
+
+</lagnuages>
