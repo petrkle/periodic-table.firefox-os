@@ -1,6 +1,11 @@
 COMPRESS=java -jar $(HOME)/lib/htmlcompressor-1.5.3.jar --compress-js --compress-css --remove-surrounding-spaces all -r -m '*.html' -o
 
-all:
+help:
+	@echo "help     - this help"
+	@echo "app      - create app"
+	@echo "clean    - remove generated files"
+
+app:
 	cd po && make
 	./icons.sh
 	./generate.pl

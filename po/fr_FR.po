@@ -267,3 +267,12 @@ msgstr "Le code source"
 
 msgid "Unknown"
 msgstr "Inconnu"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Russian"
+msgstr "Russe"
+
+msgid "Estonian"
+msgstr "Estonien"

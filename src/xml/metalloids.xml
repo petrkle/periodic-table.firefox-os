@@ -39,6 +39,8 @@
     <name_pl_PL>Antymon</name_pl_PL>
     <name_es_ES>Antimonio</name_es_ES>
     <name_nl_NL>Antimoon</name_nl_NL>
+    <name_ru_RU>Сурьма</name_ru_RU>
+    <name_et_EE>Antimon</name_et_EE>
   </element>
   <element>
     <anumber>33</anumber>
@@ -78,6 +80,8 @@
     <name_pl_PL>Arsen</name_pl_PL>
     <name_es_ES>Arsénico</name_es_ES>
     <name_nl_NL>Arseen</name_nl_NL>
+    <name_ru_RU>Мышьяк</name_ru_RU>
+    <name_et_EE>Arseen</name_et_EE>
   </element>
   <element>
     <anumber>5</anumber>
@@ -116,6 +120,8 @@
     <name_pl_PL>Bor</name_pl_PL>
     <name_es_ES>Boro</name_es_ES>
     <name_nl_NL>Boor</name_nl_NL>
+    <name_ru_RU>Бор</name_ru_RU>
+    <name_et_EE>Boor</name_et_EE>
   </element>
   <element>
     <anumber>32</anumber>
@@ -151,6 +157,8 @@
     <name_pl_PL>German</name_pl_PL>
     <name_es_ES>Germanio</name_es_ES>
     <name_nl_NL>Germanium</name_nl_NL>
+    <name_ru_RU>Германий</name_ru_RU>
+    <name_et_EE>Germaanium</name_et_EE>
   </element>
   <element>
     <anumber>14</anumber>
@@ -189,6 +197,8 @@
     <name_pl_PL>Krzem</name_pl_PL>
     <name_es_ES>Silicio</name_es_ES>
     <name_nl_NL>Silicium</name_nl_NL>
+    <name_ru_RU>Кремний</name_ru_RU>
+    <name_et_EE>Räni</name_et_EE>
   </element>
   <element>
     <anumber>52</anumber>
@@ -229,5 +239,7 @@
     <name_pl_PL>Tellur</name_pl_PL>
     <name_es_ES>Telurio</name_es_ES>
     <name_nl_NL>Telluur</name_nl_NL>
+    <name_ru_RU>Теллур</name_ru_RU>
+    <name_et_EE>Telluur</name_et_EE>
   </element>
 </elements>

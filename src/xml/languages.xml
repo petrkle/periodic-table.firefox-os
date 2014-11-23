@@ -81,4 +81,24 @@
 		<description>Een beschrijving van elk element bevat een Latijnse naam, symbool, atomaire aantal, atoom gewicht, oxidatie, Pauling elektronegativiteit, aantal stabiele isotopen, het aantal instabiele isotopen, smeltpunt, kookpunt en dichtheid. Vertaald naar: Nederlans, Engels, Frans, Duits, Spaans, Pools, Tsjechisch en Slowaaks. Nederlandse vertaling: Ben van Hartingsveldt</description>
 	</lang>
 
+	<lang>
+		<fullname>Russian</fullname>
+		<fullnameloc>Русский</fullnameloc>
+		<locales>ru_RU</locales>
+		<android>ru</android>
+		<browser>ru-RU</browser>
+		<title>Таблица Менделеева</title>
+		<description>Описание каждово элемента содержит: название на латыни, символ, атомное число, атомную массу, окисление, электроотрицательность по шкале Полинга, число стабильных и нестабильных изотопов, температуру кипения и плавления, плотность.</description>
+	</lang>
+
+	<lang>
+		<fullname>Estonian</fullname>
+		<fullnameloc>Eesti</fullnameloc>
+		<locales>et_EE</locales>
+		<android>et</android>
+		<browser>et-EE</browser>
+		<title>Perioodilisustabel</title>
+		<description>Kirjeldus iga element sisaldab ladinakeelne nimetus, sümbol, aatomnumber, aatommass, oksüdeerumine, Pauling elektronegatiivsust arv stabiilseid isotoope arv ebastabiilne isotoobid, sulamistemperatuur, keemistemperatuur ja tihedus. Tõlgitud inglise, prantsuse, saksa, hispaania, hollandi, poola, tšehhi ja slovaki.</description>
+	</lang>
+
 </lagnuages>

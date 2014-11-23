@@ -32,6 +32,8 @@
     <name_pl_PL>Aktyn</name_pl_PL>
     <name_es_ES>Actinio</name_es_ES>
     <name_nl_NL>Actinium</name_nl_NL>
+    <name_ru_RU>Актиний</name_ru_RU>
+    <name_et_EE>Aktiinium</name_et_EE>
   </element>
   <element>
     <anumber>24</anumber>
@@ -73,6 +75,8 @@
     <name_pl_PL>Chrom</name_pl_PL>
     <name_es_ES>Cromo</name_es_ES>
     <name_nl_NL>Chroom</name_nl_NL>
+    <name_ru_RU>Хром</name_ru_RU>
+    <name_et_EE>Kroom</name_et_EE>
   </element>
   <element>
     <anumber>72</anumber>
@@ -114,6 +118,8 @@
     <name_pl_PL>Hafn</name_pl_PL>
     <name_es_ES>Hafnio</name_es_ES>
     <name_nl_NL>Hafnium</name_nl_NL>
+    <name_ru_RU>Гафний</name_ru_RU>
+    <name_et_EE>Hafnium</name_et_EE>
   </element>
   <element>
     <anumber>77</anumber>
@@ -153,6 +159,8 @@
     <name_pl_PL>Iryd</name_pl_PL>
     <name_es_ES>Iridio</name_es_ES>
     <name_nl_NL>Iridium</name_nl_NL>
+    <name_ru_RU>Иридий</name_ru_RU>
+    <name_et_EE>Iriidium</name_et_EE>
   </element>
   <element>
     <anumber>48</anumber>
@@ -193,6 +201,8 @@
     <name_pl_PL>Kadm</name_pl_PL>
     <name_es_ES>Cadmio</name_es_ES>
     <name_nl_NL>Cadmium</name_nl_NL>
+    <name_ru_RU>Кадмий</name_ru_RU>
+    <name_et_EE>Kaadmium</name_et_EE>
   </element>
   <element>
     <anumber>27</anumber>
@@ -234,6 +244,8 @@
     <name_pl_PL>Kobalt</name_pl_PL>
     <name_es_ES>Cobalto</name_es_ES>
     <name_nl_NL>Kobalt</name_nl_NL>
+    <name_ru_RU>Кобальт</name_ru_RU>
+    <name_et_EE>Koobalt</name_et_EE>
   </element>
   <element>
     <anumber>104</anumber>
@@ -258,6 +270,8 @@
     <name_pl_PL>Rutherford</name_pl_PL>
     <name_es_ES>Rutherfordio</name_es_ES>
     <name_nl_NL>Rutherfordium</name_nl_NL>
+    <name_ru_RU>Резерфордий</name_ru_RU>
+    <name_et_EE>Rutherfordium</name_et_EE>
   </element>
   <element>
     <anumber>57</anumber>
@@ -298,6 +312,8 @@
     <name_pl_PL>Lantan</name_pl_PL>
     <name_es_ES>Lantano</name_es_ES>
     <name_nl_NL>Lanthaan</name_nl_NL>
+    <name_ru_RU>Лантан</name_ru_RU>
+    <name_et_EE>Lantaan</name_et_EE>
   </element>
   <element>
     <anumber>25</anumber>
@@ -337,6 +353,8 @@
     <name_pl_PL>Mangan</name_pl_PL>
     <name_es_ES>Manganeso</name_es_ES>
     <name_nl_NL>Mangaan</name_nl_NL>
+    <name_ru_RU>Марганец</name_ru_RU>
+    <name_et_EE>Mangaan</name_et_EE>
   </element>
   <element>
     <anumber>42</anumber>
@@ -378,6 +396,8 @@
     <name_pl_PL>Molibden</name_pl_PL>
     <name_es_ES>Molibdeno</name_es_ES>
     <name_nl_NL>Molybdeen</name_nl_NL>
+    <name_ru_RU>Молибден</name_ru_RU>
+    <name_et_EE>Molübdeen</name_et_EE>
   </element>
   <element>
     <anumber>29</anumber>
@@ -420,6 +440,8 @@
     <name_pl_PL>Miedź</name_pl_PL>
     <name_es_ES>Cobre</name_es_ES>
     <name_nl_NL>Koper</name_nl_NL>
+    <name_ru_RU>Медь</name_ru_RU>
+    <name_et_EE>Vask</name_et_EE>
   </element>
   <element>
     <anumber>28</anumber>
@@ -459,6 +481,8 @@
     <name_pl_PL>Nikiel</name_pl_PL>
     <name_es_ES>Níquel</name_es_ES>
     <name_nl_NL>Nikkel</name_nl_NL>
+    <name_ru_RU>Никель</name_ru_RU>
+    <name_et_EE>Nikkel</name_et_EE>
   </element>
   <element>
     <anumber>41</anumber>
@@ -500,6 +524,8 @@
     <name_pl_PL>Niob</name_pl_PL>
     <name_es_ES>Niobio</name_es_ES>
     <name_nl_NL>Niobium</name_nl_NL>
+    <name_ru_RU>Ниобий</name_ru_RU>
+    <name_et_EE>Nioobium</name_et_EE>
   </element>
   <element>
     <anumber>76</anumber>
@@ -537,6 +563,8 @@
     <name_pl_PL>Osm</name_pl_PL>
     <name_es_ES>Osmio</name_es_ES>
     <name_nl_NL>Osmium</name_nl_NL>
+    <name_ru_RU>Осмий</name_ru_RU>
+    <name_et_EE>Osmium</name_et_EE>
   </element>
   <element>
     <anumber>46</anumber>
@@ -578,6 +606,8 @@
     <name_pl_PL>Pallad</name_pl_PL>
     <name_es_ES>Paladio</name_es_ES>
     <name_nl_NL>Palladium</name_nl_NL>
+    <name_ru_RU>Палладий</name_ru_RU>
+    <name_et_EE>Pallaadium</name_et_EE>
   </element>
   <element>
     <anumber>78</anumber>
@@ -619,6 +649,8 @@
     <name_pl_PL>Platyna</name_pl_PL>
     <name_es_ES>Platino</name_es_ES>
     <name_nl_NL>Platina</name_nl_NL>
+    <name_ru_RU>Платина</name_ru_RU>
+    <name_et_EE>Plaatina</name_et_EE>
   </element>
   <element>
     <anumber>75</anumber>
@@ -658,6 +690,8 @@
     <name_pl_PL>Ren</name_pl_PL>
     <name_es_ES>Renio</name_es_ES>
     <name_nl_NL>Renium</name_nl_NL>
+    <name_ru_RU>Рений</name_ru_RU>
+    <name_et_EE>Reenium</name_et_EE>
   </element>
   <element>
     <anumber>45</anumber>
@@ -699,6 +733,8 @@
     <name_pl_PL>Rod</name_pl_PL>
     <name_es_ES>Rodio</name_es_ES>
     <name_nl_NL>Rhodium</name_nl_NL>
+    <name_ru_RU>Родий</name_ru_RU>
+    <name_et_EE>Roodium</name_et_EE>
   </element>
   <element>
     <anumber>80</anumber>
@@ -739,6 +775,8 @@
     <name_pl_PL>Rtęć</name_pl_PL>
     <name_es_ES>Mercurio</name_es_ES>
     <name_nl_NL>Kwik</name_nl_NL>
+    <name_ru_RU>Ртуть</name_ru_RU>
+    <name_et_EE>Elavhõbe</name_et_EE>
   </element>
   <element>
     <anumber>44</anumber>
@@ -779,6 +817,8 @@
     <name_pl_PL>Ruten</name_pl_PL>
     <name_es_ES>Rutenio</name_es_ES>
     <name_nl_NL>Ruthenium</name_nl_NL>
+    <name_ru_RU>Рутений</name_ru_RU>
+    <name_et_EE>Ruteenium</name_et_EE>
   </element>
   <element>
     <anumber>21</anumber>
@@ -816,6 +856,8 @@
     <name_pl_PL>Skand</name_pl_PL>
     <name_es_ES>Escandio</name_es_ES>
     <name_nl_NL>Scandium</name_nl_NL>
+    <name_ru_RU>Скандий</name_ru_RU>
+    <name_et_EE>Skandium</name_et_EE>
   </element>
   <element>
     <anumber>47</anumber>
@@ -858,6 +900,8 @@
     <name_pl_PL>Srebro</name_pl_PL>
     <name_es_ES>Plata</name_es_ES>
     <name_nl_NL>Zilver</name_nl_NL>
+    <name_ru_RU>Серебро</name_ru_RU>
+    <name_et_EE>Hõbe</name_et_EE>
   </element>
   <element>
     <anumber>73</anumber>
@@ -897,6 +941,8 @@
     <name_pl_PL>Tantal</name_pl_PL>
     <name_es_ES>Tántalo</name_es_ES>
     <name_nl_NL>Tantaal</name_nl_NL>
+    <name_ru_RU>Тантал</name_ru_RU>
+    <name_et_EE>Tantaal</name_et_EE>
   </element>
   <element>
     <anumber>43</anumber>
@@ -933,6 +979,8 @@
     <name_pl_PL>Technet</name_pl_PL>
     <name_es_ES>Tecnecio</name_es_ES>
     <name_nl_NL>Technetium</name_nl_NL>
+    <name_ru_RU>Технеций</name_ru_RU>
+    <name_et_EE>Tehneetsium</name_et_EE>
   </element>
   <element>
     <anumber>22</anumber>
@@ -973,6 +1021,8 @@
     <name_pl_PL>Tytan</name_pl_PL>
     <name_es_ES>Titanio</name_es_ES>
     <name_nl_NL>Titanium</name_nl_NL>
+    <name_ru_RU>Титан</name_ru_RU>
+    <name_et_EE>Titaan</name_et_EE>
   </element>
   <element>
     <anumber>109</anumber>
@@ -995,6 +1045,8 @@
     <name_pl_PL>Meitner</name_pl_PL>
     <name_es_ES>Meitnerio</name_es_ES>
     <name_nl_NL>Meitnerium</name_nl_NL>
+    <name_ru_RU>Мейтнерий</name_ru_RU>
+    <name_et_EE>Meitneerium</name_et_EE>
   </element>
   <element>
     <anumber>106</anumber>
@@ -1018,6 +1070,8 @@
     <name_pl_PL>Seaborg</name_pl_PL>
     <name_es_ES>Seaborgio</name_es_ES>
     <name_nl_NL>Seaborgium</name_nl_NL>
+    <name_ru_RU>Сиборгий</name_ru_RU>
+    <name_et_EE>Seaborgium</name_et_EE>
   </element>
   <element>
     <anumber>108</anumber>
@@ -1040,6 +1094,8 @@
     <name_pl_PL>Has</name_pl_PL>
     <name_es_ES>Hassio</name_es_ES>
     <name_nl_NL>Hassium</name_nl_NL>
+    <name_ru_RU>Хассий</name_ru_RU>
+    <name_et_EE>Hassium</name_et_EE>
   </element>
   <element>
     <anumber>105</anumber>
@@ -1063,6 +1119,8 @@
     <name_pl_PL>Dubn</name_pl_PL>
     <name_es_ES>Dubnio</name_es_ES>
     <name_nl_NL>Dubnium</name_nl_NL>
+    <name_ru_RU>Дубний</name_ru_RU>
+    <name_et_EE>Dubnium</name_et_EE>
   </element>
   <element>
     <anumber>107</anumber>
@@ -1086,6 +1144,8 @@
     <name_pl_PL>Bohr</name_pl_PL>
     <name_es_ES>Bohrio</name_es_ES>
     <name_nl_NL>Bohrium</name_nl_NL>
+    <name_ru_RU>Борий</name_ru_RU>
+    <name_et_EE>Bohrium</name_et_EE>
   </element>
   <element>
     <anumber>23</anumber>
@@ -1127,6 +1187,8 @@
     <name_pl_PL>Wanad</name_pl_PL>
     <name_es_ES>Vanadio</name_es_ES>
     <name_nl_NL>Vanadium</name_nl_NL>
+    <name_ru_RU>Ванадий</name_ru_RU>
+    <name_et_EE>Vanaadium</name_et_EE>
   </element>
   <element>
     <anumber>74</anumber>
@@ -1167,6 +1229,8 @@
     <name_pl_PL>Wolfram</name_pl_PL>
     <name_es_ES>Tungsteno</name_es_ES>
     <name_nl_NL>Wolfraam</name_nl_NL>
+    <name_ru_RU>Вольфрам</name_ru_RU>
+    <name_et_EE>Volfram</name_et_EE>
   </element>
   <element>
     <anumber>39</anumber>
@@ -1206,6 +1270,8 @@
     <name_pl_PL>Itr</name_pl_PL>
     <name_es_ES>Itrio</name_es_ES>
     <name_nl_NL>Yttrium</name_nl_NL>
+    <name_ru_RU>Иттрий</name_ru_RU>
+    <name_et_EE>Ütrium</name_et_EE>
   </element>
   <element>
     <anumber>30</anumber>
@@ -1247,6 +1313,8 @@
     <name_pl_PL>Cynk</name_pl_PL>
     <name_es_ES>Cinc</name_es_ES>
     <name_nl_NL>Zink</name_nl_NL>
+    <name_ru_RU>Цинк</name_ru_RU>
+    <name_et_EE>Tsink</name_et_EE>
   </element>
   <element>
     <anumber>40</anumber>
@@ -1288,6 +1356,8 @@
     <name_pl_PL>Cyrkon</name_pl_PL>
     <name_es_ES>Circonio</name_es_ES>
     <name_nl_NL>Zirkonium</name_nl_NL>
+    <name_ru_RU>Цирконий</name_ru_RU>
+    <name_et_EE>Tsirkoonium</name_et_EE>
   </element>
   <element>
     <anumber>79</anumber>
@@ -1329,6 +1399,8 @@
     <name_pl_PL>Złoto</name_pl_PL>
     <name_es_ES>Oro</name_es_ES>
     <name_nl_NL>Goud</name_nl_NL>
+    <name_ru_RU>Золото</name_ru_RU>
+    <name_et_EE>Kuld</name_et_EE>
   </element>
   <element>
     <anumber>26</anumber>
@@ -1370,6 +1442,8 @@
     <name_pl_PL>Żelazo</name_pl_PL>
     <name_es_ES>Hierro</name_es_ES>
     <name_nl_NL>IJzer</name_nl_NL>
+    <name_ru_RU>Железо</name_ru_RU>
+    <name_et_EE>Raud</name_et_EE>
   </element>
   <element>
     <anumber>110</anumber>
@@ -1394,6 +1468,8 @@
     <name_pl_PL>Darmstadtium</name_pl_PL>
     <name_es_ES>Darmstadtium</name_es_ES>
     <name_nl_NL>Darmstadtium</name_nl_NL>
+    <name_ru_RU>Дармштадтий</name_ru_RU>
+    <name_et_EE>Darmstadtium</name_et_EE>
   </element>
   <element>
     <anumber>111</anumber>
@@ -1418,6 +1494,8 @@
     <name_pl_PL>Roentgenium</name_pl_PL>
     <name_es_ES>Roentgenium</name_es_ES>
     <name_nl_NL>Röntgenium</name_nl_NL>
+    <name_ru_RU>Рентгений</name_ru_RU>
+    <name_et_EE>Röntgeenium</name_et_EE>
   </element>
   <element>
     <anumber>112</anumber>
@@ -1442,5 +1520,7 @@
     <name_pl_PL>Copernicium</name_pl_PL>
     <name_es_ES>Copernicium</name_es_ES>
     <name_nl_NL>Copernicium</name_nl_NL>
+    <name_ru_RU>Коперниций</name_ru_RU>
+    <name_et_EE>Koperniitsium</name_et_EE>
   </element>
 </elements>
