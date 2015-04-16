@@ -101,4 +101,13 @@
 		<description>Kirjeldus iga element sisaldab ladinakeelne nimetus, sümbol, aatomnumber, aatommass, oksüdeerumine, Pauling elektronegatiivsust arv stabiilseid isotoope arv ebastabiilne isotoobid, sulamistemperatuur, keemistemperatuur ja tihedus. Tõlgitud inglise, prantsuse, saksa, hispaania, hollandi, poola, tšehhi ja slovaki.</description>
 	</lang>
 
+	<lang>
+        <fullname>Swedish</fullname>
+        <fullnameloc>Svenska</fullnameloc>
+        <locales>sv_SE</locales>
+        <android>sv</android>
+        <browser>sv-SE</browser>
+        <title>Periodiska systemet</title>
+				<description>En beskrivning av varje element innehåller ett latinskt namn, symbol, atomnummer, atomvikt, oxidation, Pauling elektronegativitet, antal stabila isotoper, antalet instabila isotoper, smältpunkt, kokpunkt och densitet.</description>
+	</lang>
 </lagnuages>
