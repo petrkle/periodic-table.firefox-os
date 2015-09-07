@@ -45,7 +45,7 @@ my $languages = $xml->XMLin("src/xml/languages.xml");
 
 my @tableview = ();
 
-my $version = '2.1';
+my $version = '2.2';
 
 my $t = Template->new({
 		INCLUDE_PATH => 'src',

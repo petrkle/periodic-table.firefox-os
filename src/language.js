@@ -1,7 +1,7 @@
 [% FOREACH loc IN languages %]
-var button[% loc.android %] = document.getElementById('btn[% loc.android %]');
-button[% loc.android %].addEventListener('click', function(){
-	localStorage.setItem('lang', '[% loc.android %]');
+var button[% loc.browser FILTER remove('-') %] = document.getElementById('btn[% loc.browser FILTER remove('-') %]');
+button[% loc.browser FILTER remove('-') %].addEventListener('click', function(){
+	localStorage.setItem('lang', '[% loc.browser %]');
 	window.location='../index.html';
 })
 [% END %]

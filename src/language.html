@@ -2,7 +2,7 @@
 [% INCLUDE title.html %]
 	<ul id="elements">
 [% FOREACH loc IN languages %]
-		<li><a class="line closed" href="#" id="btn[% loc.android %]">[% l(loc.fullname) %]</a></li>
+		<li><a class="line closed" href="#" id="btn[% loc.browser FILTER remove('-') %]">[% l(loc.fullname) %]</a></li>
 [% END %]
 		<li><a class="line closed" href="#" id="btndefault">[% l('Default language') %]</a></li>
 	</ul>

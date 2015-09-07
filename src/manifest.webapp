@@ -19,7 +19,7 @@
   },
   "locales": {
 [% FOREACH loc IN languages -%]
-    "[% loc.android -%]": {
+    "[% loc.browser -%]": {
       "name": "[% loc.title -%]",
       "description": "[% loc.description -%]",
       "developer": {

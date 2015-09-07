@@ -110,4 +110,14 @@
         <title>Periodiska systemet</title>
 				<description>En beskrivning av varje element innehåller ett latinskt namn, symbol, atomnummer, atomvikt, oxidation, Pauling elektronegativitet, antal stabila isotoper, antalet instabila isotoper, smältpunkt, kokpunkt och densitet.</description>
 	</lang>
+
+	<lang>
+        <fullname>Brazilian Portuguese</fullname>
+        <fullnameloc>Português brasileiro</fullnameloc>
+        <locales>pt_BR</locales>
+        <android>pt-rBR</android>
+        <browser>pt-BR</browser>
+        <title>Tabela periódica</title>
+				<description>Uma descrição de cada elemento contendo o nome em Latim, símbolo, número atômico, peso atômico, oxidação, Eletronegatividade de Pauling, número de isótopos estáveis, número de isótopos instáveis, ponto de fusão, ponto de ebulição e densidade.</description>
+	</lang>
 </lagnuages>
